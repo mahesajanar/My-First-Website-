@@ -1,2 +1,2 @@
 # My-First-Website-
-Membuat website pertama di tahun 2021.
+Membuat website pertama pada tahun 2021.
